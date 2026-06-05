@@ -1,0 +1,35 @@
+[33mcommit 62daefe5b93a71e2fc9e9614f22471559d0c4655[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AC <andreaciviera@gmail.com>
+Date:   Thu Jun 4 15:24:01 2026 +0100
+
+    EDIT: hostname
+
+[33mcommit e60241ecd0800005e7bc3bf5cf65a89ce11cf822[m
+Author: AC <andreaciviera@gmail.com>
+Date:   Thu Jun 4 14:43:54 2026 +0100
+
+    EDIT: added dockerfil and changed visual colours
+
+[33mcommit 8d9fbfd7c2559b484206ed89c17473b7ff4f25b0[m
+Author: QA-Instructor <qainstructorsky@gmail.com>
+Date:   Tue Jun 24 15:29:50 2025 +0100
+
+    CREATE: sonar-project.properties
+
+[33mcommit 6000c31f8c5b23eb1c473ec2605c34e11975ac74[m
+Author: QA-Instructor <qainstructorsky@gmail.com>
+Date:   Mon Jun 16 15:59:39 2025 +0100
+
+    CREATE: added .dockerignore
+
+[33mcommit a35eb0dfc0c5d0991c83aa40bde488dc01dca4fb[m
+Author: QA-Instructor <qainstructorsky@gmail.com>
+Date:   Mon Jun 16 15:52:38 2025 +0100
+
+    EDIT: added hostname to index.html
+
+[33mcommit 330e92c940ef1cc06f26364bfd4790f3605711ce[m
+Author: Victoria Lloyd <QAInstructorSky@gmail.com>
+Date:   Fri Jun 6 10:12:30 2025 +0100
+
+    Initial commit
